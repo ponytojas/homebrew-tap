@@ -5,7 +5,7 @@ class Bit < Formula
   homepage "https://atc-github.azure.cloud.bmw/qxz5hea/bit-cli"
   license "MIT"
   url "https://atc-github.azure.cloud.bmw/qxz5hea/bit-cli/archive/refs/tags/v2.0.0.tar.gz"
-  sha256 "3a94b6f96b5bd9987a66e60a2f9d743de5538a71a6c103467d26facd546bddcc"
+  sha256 "ce9af4962adc042c568cabe5c51c893d2eac05c0515a371b7f66634817b9eddf"
   depends_on "node"
 
   def install
