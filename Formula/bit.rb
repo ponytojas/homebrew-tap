@@ -5,7 +5,7 @@ class Bit < Formula
   homepage "https://atc-github.azure.cloud.bmw/qxz5hea/bit-cli"
   url "ssh://git@atc-github.azure.cloud.bmw/qxz5hea/bit-cli.git",
       tag:      "v2.0.0",
-      revision: "YOUR_COMMIT_SHA_HERE"
+      revision: "b755b2d3e6931ea2bea8acce8d7a38f1c82f3d12"
   license "MIT"
   depends_on "node"
 
