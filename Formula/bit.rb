@@ -3,9 +3,10 @@ require "language/node"
 class Bit < Formula
   desc "CLI tool to automate file mongoose, graphql and apollo hooks based on a typescript interface"
   homepage "https://atc-github.azure.cloud.bmw/qxz5hea/bit-cli"
+  url "https://atc-github.azure.cloud.bmw/qxz5hea/bit-cli.git",
+      tag:      "v2.0.0",
+      revision: "b755b2d3e6931ea2bea8acce8d7a38f1c82f3d12"
   license "MIT"
-  url "https://atc-github.azure.cloud.bmw/qxz5hea/bit-cli/archive/refs/tags/v2.0.0.tar.gz"
-  sha256 "ce9af4962adc042c568cabe5c51c893d2eac05c0515a371b7f66634817b9eddf"
   depends_on "node"
 
   def install
